@@ -16,7 +16,7 @@ ALECBOARD Version 2, BBS ENGINE
 
 설치
 =======
-1. 알렉보드를 깃허브 또는 http://alexleejw.com에 들어가서 최신 버전을 다운로드 받는다.
+1. 알렉보드를 깃허브 또는 http://alexleejw.com 에 들어가서 최신 버전을 다운로드 받는다.
 
 2. 다운받은 후, 압축을 해제한다.
 
